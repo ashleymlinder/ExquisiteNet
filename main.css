@@ -1,17 +1,25 @@
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: 'Abril Fatface', cursive;
   line-height: 1.5;
   padding: 30px 20px;
+  align-content: center;
+  background-color: black;
 }
 
 h1 {
-  color: red;
+  color: white;
   padding: 20px 0px 10px 0px;
 }
 
 a {
-color: #69CBBB;
+color: #0072B3;
 text-decoration: none;
 } <br> <br>
+
+p {
+  align-content: center;
+}
